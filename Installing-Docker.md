@@ -38,6 +38,7 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io
 ```
 
 2. To install a specific version of Docker Engine, list the available versions in the repo, then select and install:
+
     a. List the versions available in your repo:
     ```bash 
     apt-cache madison docker-ce
