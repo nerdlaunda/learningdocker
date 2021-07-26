@@ -1,7 +1,1 @@
-# Installing docker
-
-## Windows
-
-## Linux
-
-## Mac
+# Readme.md
